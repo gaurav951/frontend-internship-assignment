@@ -1,42 +1,9 @@
-# Fyle Frontend Challenge
+The web application has been skillfully crafted using the powerful ReactJS framework, providing users with a seamless and responsive browsing experience. To fetch data from openlibrary.org, Axios has been utilized to ensure reliable and efficient data retrieval. The stunning visual design and smooth animations have been achieved using the elegant Ant Design styling library, which also includes beautiful and engaging loader components. The web pages are expertly navigated using React Router, which enables effortless and intuitive routing. Overall, this application is a true testament to the capabilities of modern web development, providing a delightful and engaging user experience. link[https://64343ed8a9fb4e55499a37bc--comforting-alpaca-19ac1e.netlify.app/]
 
-## Who is this for?
+## Features of the application 
 
-This challenge is meant for candidates who wish to intern at Fyle and work with our engineering team. The candidate should be able to commit to at least 6 months of dedicated time for internship.
+The Library app boasts an impressive range of features designed to enhance the user experience. At the heart of the app is a powerful search function, which allows users to easily search for books by book title or author name. The app has been optimized to fetch only 10 results at a time, allowing for quick and efficient browsing. Navigation is simple and intuitive, with options to view the next or previous results with just a single click.
 
-## Why work at Fyle?
+In addition, the app includes a variety of other features to make the browsing experience even more enjoyable. Users can easily clear their search key, and the app also provides a list of the top 5 subjects, with the ability to view the top 10 books on any given subject. Users can also input a subject of their choice to find books on that topic.
 
-Fyle is a fast-growing Expense Management SaaS product. We are ~40 strong engineering team at the moment. 
-
-We are an extremely transparent organization. Check out our [careers page](https://careers.fylehq.com) that will give you a glimpse of what it is like to work at Fyle. Also, check out our Glassdoor reviews [here](https://www.glassdoor.co.in/Reviews/Fyle-Reviews-E1723235.htm). You can read stories from our teammates [here](https://stories.fylehq.com).
-
-## Challenge outline
-
-This challenge involves implementing a Books Library using the Open Library Subjects and Search APIs . The challenge is described in detail [here](./Application.md)
-
-__Note__ - This challenge is in angular. We work on angular frameworks & after you join we expect the same from you. Hence it is required to complete this assignement in angular itself.
-
-## What happens next?
-
-You will hear back within 48 hours from us via email.
-
-## Installation
-
-1. Fork this repository to your github account.
-2. Clone the forked repository and proceed with steps mentioned below.
-
-### Install requirements
-* Install Nx using the [Nx Documentation](https://nx.dev)
-* Install `nvm` for linux or mac from this [url](https://github.com/creationix/nvm#installation-and-update)
-* Install `nvm` for windows from this [url](https://github.com/coreybutler/nvm-windows/releases)
-* Check `nodejs` version by typing : `node -v`
-* Install dependencies : `npm install --save-dev`
-
-## Development server
-
-Run `nx serve front-end-internship-assignment` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-
-## Further help
-
-Visit the [Nx Documentation](https://nx.dev) to learn more.
-Visit the [Angular Documentation](https://angular.io/guide/styleguide) to learn more.
+To ensure a seamless browsing experience, the app includes a loader component that is displayed while API calls are in progress. This provides users with peace of mind, knowing that their search results will be displayed as quickly and smoothly as possible. Overall, the Library app is a powerful and user-friendly tool for book lovers everywhere.
